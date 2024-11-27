@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      Thaynara bbzinha, I love you! If you love me give me some giggle! 😎
+      Success is what you attract by the person you become. ☕📖
     </h1>
   );
 }
